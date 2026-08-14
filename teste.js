@@ -1,0 +1,1 @@
+console.log("Olá Mundo! Meu ambiente de trabalho está configurado")
